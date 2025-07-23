@@ -23,7 +23,7 @@ int main(void)
     cout<<"Enter the number of elements : ";
     cin>>n;
     int A[n];
-    cout<<"Enter the elements of the array : ";
+    cout<<"Enter the elements of the array : "<< endl;
     for(int i=0;i<n;i++)
     {
         cin>>A[i];
