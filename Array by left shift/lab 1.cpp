@@ -37,9 +37,9 @@ int main(void)
         cout<<A[i]<<" ";
     }
     cout<<endl;
-    cout<<"Hello World!0"<<endl;
     return 0;
 }
+
 
 
 
