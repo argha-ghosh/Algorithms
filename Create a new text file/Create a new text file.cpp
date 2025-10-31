@@ -12,11 +12,12 @@ int main()
     for(int i=0; i<100;i++)
     {
         //n=rand;
-        //cout<<rand()%6+1<<endl;
+        cout<<rand()%6+1<<endl;
         fout<<rand()<<endl;
     }
     return 0;
 
 }
+
 
 
